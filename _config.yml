@@ -79,6 +79,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@47.93.41.193:/hexo/blog/frontend.git
+  repo: git@47.93.41.193:/opt/hexo/essay.git
   branch: master
-  message: update
+  message: "feat: add essay"
